@@ -13,7 +13,7 @@
     "dependencies": {
         "@jesseburke/components": "^0.0.1",
         "@jesseburke/jotai-data-setup": "^0.0.7",
-        "@jesseburke/three-scene-with-react": "^0.0.9",
+        "@jesseburke/three-scene-with-react": "^0.0.16",
         "jotai": "^0.16.11",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
