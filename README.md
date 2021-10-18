@@ -4,7 +4,7 @@ Graphs a function of two variables, s(x,t), and animates a fixed value
 of the second variable, called t0. Graphs the function s(x,t0) next to
 the 3d graph of s(x,t), so one can see how s(x,t0) changes as t0 changes.
 
-[jesseburke.org/apps/vibrating-string/](https://jesseburke.org/vibrating-string)
+[jesseburke.org/apps/vibrating-string/](https://jesseburke.org/apps/vibrating-string)
 
 ![title](assets/overview.gif)
 
